@@ -1,5 +1,9 @@
 # semantix-test
 
+Para testar o projeto, é necessário acessar o link: http://ita.ee.lbl.gov/html/contrib/NASA-HTTP.html para obter os seguintes dadasets:
+NASA_access_log_Aug95 e NASA_access_log_Jul95. Após fazer o download dos datasets, colocar os mesmos dentro do diretório do projeto.
+Dessa forma o projeto está pronto para ser executado, basta apenas iniciar o método main da Classe App.
+
 #### Qual o objetivo do comando cache em Spark?
 R: O comando cache carrega as informações do RDD (Resilient Distributed Dataset) em memória.
 
